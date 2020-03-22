@@ -70,6 +70,7 @@ pip freeze > requirements.txt
 ## Data
 
 All data used in this project was provided by IMDb
+
 https://www.imdb.com/interfaces/
 
 
